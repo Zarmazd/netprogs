@@ -8,3 +8,5 @@ from pyfiglet import figlet_format
 cprint('--------------------------------------------', 'red')
 cprint(figlet_format('Локарно', font='standard'), 'red', attrs=['bold'])
 cprint('--------------------------------------------', 'red')
+cprint('ZARMAZD представляет: М.К.Т. АС-4 "Локарно".', 'red')
+cprint('Это бета-версия. Обо всех ошибках сообщайте автору.', 'red')
